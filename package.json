@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nilemandal22/lodash/issues"
   },
-  "homepage": "https://github.com/nilemandal22/lodash#readme"
+  "homepage": "https://github.com/nilemandal22/lodash#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
